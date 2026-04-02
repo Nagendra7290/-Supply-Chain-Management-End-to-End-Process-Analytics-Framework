@@ -1,5 +1,5 @@
-# Advanced Supply Chain Management Process  
-## Automation Manufacturing Company
+# Advanced Supply Chain Management Process 
+##  Manufacturing Company
 
 ---
 
